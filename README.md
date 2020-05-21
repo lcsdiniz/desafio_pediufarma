@@ -16,4 +16,6 @@ The **Desafio Pediu Farma** is a challenge where participants must create a scri
 * MySQL - Database.
 
 ## Authors
-* [**Lucas Diniz**](https://github.com/lcsdiniz)
+- **Lucas Diniz**
+  - [GitHub](https://github.com/lcsdiniz)
+  - [LinkedIn](https://www.linkedin.com/in/lucas-diniz-santos-henrique-3aa825157/)
